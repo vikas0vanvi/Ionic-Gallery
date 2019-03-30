@@ -1,0 +1,63 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.guinatal.refreshgallery": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-android-permissions": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-toaster": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-wallpaper": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.TzuYuWallpapersHD"
+        }
+    },
+    "dependent_plugins": {}
+}

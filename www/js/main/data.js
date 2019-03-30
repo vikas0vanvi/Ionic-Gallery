@@ -1,0 +1,1 @@
+app.factory("Photos",["$http","Config",function($http,Config){var data={};return data.getPosts=function(){return $http({method:"GET",url:Config.PhotoUrl})},data}]);
